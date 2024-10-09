@@ -8,10 +8,9 @@ This project analyzes air traffic patterns during the COVID-19 pandemic using th
 
 ### Open Sky Network Dataset
 - **Description**: The dataset showcases changes in air traffic patterns worldwide during the COVID-19 pandemic.
-- **Source**: [Open Sky Network]([https://opensky-network.org](https://zenodo.org/records/7923702))
+- **Source**: [Open Sky Network]([https://zenodo.org/records/7923702])
 
 ## Project Link
 You can explore the interactive dashboard here: [Japan Flight Analysis Dashboard](https://public.tableau.com/app/profile/alexander.aryasena/viz/japanflight_analysis/Dashboard1)
-https://public.tableau.com/app/profile/alexander.aryasena/viz/japanflight_analysis/Dashboard1
 
 
