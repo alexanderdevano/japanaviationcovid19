@@ -46,8 +46,7 @@ visualization.
 ## Dashboard
 Interactive Tableau dashboard visualizing airport and 
 airline recovery trends:
-https://public.tableau.com/app/profile/alexander.aryasena
-/viz/japanflight_analysis/Dashboard1
+https://public.tableau.com/app/profile/alexander.aryasena/viz/japanflight_analysis/Dashboard1
 
 ## Data Source
 OpenSky Network — worldwide flight observations from 
