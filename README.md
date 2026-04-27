@@ -7,7 +7,6 @@ flight data from the OpenSky Network. The goal was to
 understand how COVID-19 impacted different routes, airports, 
 and airlines across Japan between 2020 and 2021.
 
-## Why PySpark
 The dataset contains 51 million rows across 2020-2021. 
 PySpark was chosen over Pandas due to memory constraints 
 at this scale. All heavy filtering, aggregation, and 
